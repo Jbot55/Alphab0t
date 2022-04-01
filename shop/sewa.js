@@ -17,12 +17,12 @@ return `「 *PRICE LIST* 」
 
 
 ⬣ MINAT? PM
-⬡ wa.me/62887435047326
+⬡ wa.me/62895605030379
 
 
 NOTE : 
-Bot On 24 Jam Karna Di Run Menggunakan Heroku
-Reset Data Setiap Jam 02:00 `
+Bot On 24 Jam Karna Di Run Menggunakan rdp
+no reset data`
 	}
 
 exports.pc_sewa = pc_sewa
